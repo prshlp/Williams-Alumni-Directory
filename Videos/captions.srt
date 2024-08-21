@@ -1,0 +1,92 @@
+1
+00:00:00,240 --> 00:00:05,600
+Welcome to the new Alumni Directory! If you 
+have an active email on file, you should have
+
+2
+00:00:05,600 --> 00:00:11,720
+received an email from hello.alumni@williams.edu 
+with a PIN and a link to set up your profile.
+
+3
+00:00:11,720 --> 00:00:16,920
+To get started, click the link in your email, 
+which will direct you to the setup page. Enter
+
+4
+00:00:16,920 --> 00:00:21,240
+the PIN provided in the “Temporary PIN” 
+box, and then input your date of birth
+
+5
+00:00:21,240 --> 00:00:26,200
+in the corresponding field. Confirm that 
+your email is correct, and click "Login."
+
+6
+00:00:26,200 --> 00:00:30,680
+If your PIN and date of birth match our records, 
+you'll be prompted to create a password. Follow
+
+7
+00:00:30,680 --> 00:00:36,360
+the guidelines for a secure password, re-enter 
+it to confirm, and then click "Set Password."
+
+8
+00:00:36,360 --> 00:00:40,560
+Once complete, the directory homepage 
+will open. For further assistance,
+
+9
+00:00:40,560 --> 00:00:45,960
+click “Learn More” to access FAQs, 
+resources, and documentation. You can
+
+10
+00:00:45,960 --> 00:00:50,240
+start by selecting “Setting Up Your 
+Profile” from the options provided.
+
+11
+00:00:50,240 --> 00:00:55,520
+If you didn’t receive an email with your PIN, 
+visit the Directory homepage and click “Create
+
+12
+00:00:55,520 --> 00:01:01,000
+New Login.” This will take you to the registration 
+page, where you can enter your information and
+
+13
+00:01:01,000 --> 00:01:07,440
+click "Continue." Shortly after, you’ll receive 
+an email with your login link and temporary PIN.
+
+14
+00:01:07,440 --> 00:01:11,920
+Follow the same steps: click the 
+link in your email, enter your PIN,
+
+15
+00:01:11,920 --> 00:01:14,960
+input your date of birth, and confirm your email.
+
+16
+00:01:14,960 --> 00:01:18,880
+Please note, if you registered using 
+"Create New Login," your access to
+
+17
+00:01:18,880 --> 00:01:23,680
+the directory will be limited until we have 
+verified your alumni status. Once confirmed,
+
+18
+00:01:23,680 --> 00:01:28,120
+you’ll receive an email notifying you 
+that your full access is now active.
+
+19
+00:01:28,120 --> 00:01:28,960
+Thank you!
